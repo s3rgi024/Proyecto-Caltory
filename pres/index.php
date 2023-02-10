@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
     <link href="https://fonts.googleapis.com/css?family=Poppins:600&display=swap" rel="stylesheet">
-    <link rel="icon" type="image/x-icon" href="./assets/img/caltory.ico" />
+    <link rel="icon" type="image/x-icon" href="./assets/img/isotipo.svg" />
     <script src="https://kit.fontawesome.com/a81368914c.js"></script>
     <link rel="stylesheet" href="./css/inicio.css">
     <title>Inicio Sesion</title>
@@ -40,7 +40,7 @@
             	   </div>
             	</div>
             	<a href="#">¿Olvidaste tu contraseña?</a>
-            	<input type="submit" class="btn" value="Ingresar">
+            	<input type="submit" class="btn" value="Ingresar" name="btnlogin">
             </form>
         </div>
     </div>

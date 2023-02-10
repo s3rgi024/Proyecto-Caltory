@@ -47,17 +47,6 @@
 				</a>
 			</article>
 			<article class="full-width tile">
-				<a href="pres_proveedores.php">
-					<div class="tile-text">
-						<span class="text-condensedLight">
-							0<br>
-							<small>Proveedores</small>
-						</span>
-					</div>
-					<i class="zmdi fa-solid fa-truck-moving tile-icon"></i>
-				</a>
-			</article>
-			<article class="full-width tile">
 				<a href="pres_inventario.php">
 					<div class="tile-text">
 						<span class="text-condensedLight">
@@ -71,17 +60,6 @@
 				</a>
 			</article>
 			<article class="full-width tile">
-				<a href="pres_entradas.php">
-					<div class="tile-text">
-						<span class="text-condensedLight">
-							0<br>
-							<small>Entradas</small>
-						</span>
-					</div>
-					<i class="zmdi fa-solid fa-arrow-right-to-bracket tile-icon"></i>
-				</a>
-			</article>
-			<article class="full-width tile">
 				<a href="pres_historial.php">
 					<div class="tile-text">
 						<span class="text-condensedLight">
@@ -92,6 +70,17 @@
 						</span>
 					</div>
 					<i class="zmdi fa-solid fa-book tile-icon"></i>
+				</a>
+			</article>
+			<article class="full-width tile">
+				<a href="pres_entradas.php">
+					<div class="tile-text">
+						<span class="text-condensedLight">
+							0<br>
+							<small>Entradas</small>
+						</span>
+					</div>
+					<i class="zmdi fa-solid fa-arrow-right-to-bracket tile-icon"></i>
 				</a>
 			</article>
 		</article>
